@@ -1,19 +1,18 @@
 # House-Price-Prediction-ML
 House price prediction using machine learning
-House Price Prediction using Machine Learning
 
 Project Overview
 
 This project predicts house sale prices using machine learning. It includes data analysis, feature importance, model comparison, cross-validation, and model evaluation.
 
 Technologies Used
-
 - Python
 - Pandas and NumPy
 - Matplotlib and Seaborn
 - Scikit-learn
 - Google Colab
 - AI Tools
+- GitHub
 
 Models Compared
 
