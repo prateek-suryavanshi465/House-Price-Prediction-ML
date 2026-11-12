@@ -8,10 +8,9 @@ This project predicts house sale prices using machine learning. It includes data
 Technologies Used
 - Python
 - Pandas and NumPy
-- Matplotlib and Seaborn
 - Scikit-learn
 - Google Colab
-- AI Tools
+- AI Tool
 - GitHub
 
 Models Compared
